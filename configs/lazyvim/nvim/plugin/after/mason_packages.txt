@@ -1,0 +1,4 @@
+Permissions Size User Date Modified Name
+drwxr-xr-x     - shiv  7 May 00:20  lua-language-server
+drwxr-xr-x     - shiv  7 May 00:20  shfmt
+drwxr-xr-x     - shiv  7 May 00:20  stylua
