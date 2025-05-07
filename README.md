@@ -11,7 +11,7 @@ Next, restore all packages using the saved dpkg package list. This will safely i
 
 sudo apt update  
 sudo apt install -y dselect  
-sudo dpkg --set-selections < package-list.txt  
+sudo dpkg --set-selections < packages.list  
 sudo apt-get dselect-upgrade -y
 
 Once the packages are installed, restore your configuration files:
